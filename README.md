@@ -1,8 +1,7 @@
-🎨 Free Premium WordPress Themes Collection
+
 
 <div align="center">
 
-🚀 Premium WordPress Themes Shared for Learning & Development
 
 </div>
 
